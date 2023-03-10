@@ -6,6 +6,7 @@ For this project, we were tasked with creating an ETL pipeline. First, data was 
 The repository contains: (1) a Jupyter notebook file that contains the Extract and Transform portions of the pipeline; (2) a PNG file of the ERD; (3) a SQL file with the table schema; and (4) a Resources folder that contains the two original Excel files and the four CSV files that were created.
 
 MR
+
 --
 
 Help with Regex and emails: https://www.regular-expressions.info/email.html
