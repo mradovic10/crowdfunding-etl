@@ -1,4 +1,4 @@
-# Crowdfunding_ETL
+# Crowdfunding ETL
 Project 2
 
 For this project, we were tasked with creating an ETL pipeline. First, data was extracted from two Excel files. Then, that data was cleaned and transformed using Pandas and regular expressions into a cohesive units. Four CSV files were created and were used to create an entity relationship diagram and a table schema. Lastly, the CSV files were imported into our PostgreSQL database.
